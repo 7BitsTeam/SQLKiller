@@ -1,5 +1,4 @@
 from itertools import permutations
-from tkinter.tix import Select
 
 def UpperCase(source):
     ret=[]
@@ -47,6 +46,7 @@ def UpperCaseMain(source):
     return rets
 
 #print(UpperCase("Union Select"))
-#print(UpperCaseMain(["Union Select"]))
+#print(UpperCaseMain(["and"]))
+
 
 
